@@ -1,0 +1,21 @@
+Buy a toothpaste on online store
+
+Pseudocode.1
+Sort by the price
+
+1. Open the online store app
+2. Search for the toothpaste
+3. Look at the price of the toothpaste 
+4. If the price of the toothpaste > Rp 25000,-
+5. Skip 
+6. If the price of the toothpaste < RP 25000,- 
+7. Continue to check out
+ 
+
+Pseudocode.2
+Pick any price from any toothpaste brand
+
+1. Open the online store app
+2. Search for the toothpaste 
+3. Pick one from any toothpaste that came out from the search list
+4. Continue to check out
